@@ -24,7 +24,7 @@
 					width: 100%;
 					height: 750px;
           background-image: 
-            url(giphy.gif)
+            url(./giphy.gif)
           ;
           background-size: cover;
           background-position: center;
